@@ -176,9 +176,9 @@ Response Style:
 
 MindEase follows ethical AI guidelines:
 
-❌ Does not provide medical diagnoses
-❌ Does not replace therapy or emergency services
-❌ Avoids clinical language 
+- ❌ Does not provide medical diagnoses
+- ❌ Does not replace therapy or emergency services
+- ❌ Avoids clinical language 
 
 If self-harm or suicide indicators are detected:
 - Provides crisis hotline resources
@@ -239,6 +239,5 @@ This allows users to experience:
 - Severe stress protocol
 
 🔗 Connect
-Live Interactive Demo: https://agent.jotform.com/019ca75a32df733f9718aed77fe8e690c6cd
-YouTube Walkthrough: https://youtu.be/z9WybBBcmFo
-LinkedIn: https://www.linkedin.com/in/dhruv-prajapati-cybersecurity/
+- Live Interactive Demo: https://agent.jotform.com/019ca75a32df733f9718aed77fe8e690c6cd
+- YouTube Walkthrough: https://youtu.be/z9WybBBcmFo
