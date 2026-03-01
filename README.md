@@ -34,7 +34,7 @@ Most mental health services:
 - Focus on long-term therapy
 - Not optimized for real-time crisis support
 
-- ## 🤖 Solution : MindEase
+## 🤖 Solution : MindEase
 MindEase acts as a digital first-line intervention tool — providing immediate emotional stabilization before stress escalates into crisis.
 
 It provides:
@@ -48,7 +48,7 @@ It provides:
 
 The assistant dynamically adapts its tone, response length, and structure based on the user's stress intensity.
 
-- ## 🧬 Research & Neuroscience Backing
+## 🧬 Research & Neuroscience Backing
 🧠 The Science of Acute Stress Reaction
 
 When acute stress reaction occurs:
@@ -71,7 +71,7 @@ The 5-4-3-2-1 method:
 3. Interrupts panic loops
 4. Restores present-moment awareness
 
-- ## 🏗 AI System Architecture
+## 🏗 AI System Architecture
   
 1. Input Analysis Layer
    - Analyzes user text and detects emotional intensity and risk indicators
@@ -133,7 +133,7 @@ Response Style:
 - Techniques intervantion (Deep breathing exercise, Progressive muscle relaxation, distraction, grounding techniques)
 - Crisis support (Hotline)
 
-- ## 🛡 Responsible AI & Safety Framework
+## 🛡 Responsible AI & Safety Framework
 
 MindEase follows ethical AI guidelines:
 
@@ -151,7 +151,7 @@ If self-harm or suicide indicators are detected:
 - No emotional profiling retention
 - No session memory beyond interaction
 
-- ## 🧩 Prompt Engineering Architecture
+## 🧩 Prompt Engineering Architecture
 
 The system prompt governs structure and tone.
 
@@ -170,7 +170,7 @@ The assistant dynamically adjusts:
 - Complexity of explanation
 Based on detected stress severity.
 
-- ## 📊 System Flow
+## 📊 System Flow
 
    User Input  
        ↓  
@@ -184,7 +184,7 @@ Based on detected stress severity.
        ↓  
   AI Response Output
 
-- ## 🧪 Live Interactive Demo (Powered by Jotform)
+## 🧪 Live Interactive Demo (Powered by Jotform)
 🎥 How the Demo Works
 MindEase AI Agent includes an live interactive demo built using Jotform.
 
