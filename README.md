@@ -1,9 +1,9 @@
+ ![Image Alt](https://github.com/independentresearcherlabuan-stack/MINDEASE/blob/97585b28ebc07cdce6f3ff834a9ceee8e1143805/MindEase%20Banner%201.jpeg)
+We are a team of healthcare professionals, including medical officers and psychologists from the psychiatry field. Through our experience working with psychiatric patients, we’ve seen firsthand how critical immediate emotional support can be. Access gaps remain a major challenge. Our goal is to bridge that gap by combining mental health expertise with AI technology to deliver timely, accessible, and scalable support.
+
 # 🧠 MindEase – AI Assistant for Acute Stress Situations
 
 ## 📌 Problem
-
-We are a team of healthcare professionals, including medical officers and psychologists from the psychiatry field. Through our experience working with psychiatric patients, we’ve seen firsthand how critical immediate emotional support can be. Access gaps remain a major challenge. Our goal is to bridge that gap by combining mental health expertise with AI technology to deliver timely, accessible, and scalable support.
-
 Acute stress is an immediate psychological and physiological reaction to intensely stressful or emotionally overwhelming events.
 These may include:
 - Accidents or injuries
