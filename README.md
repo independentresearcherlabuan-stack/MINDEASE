@@ -173,15 +173,16 @@ Based on detected stress severity.
 ## 📊 System Flow
 
    User Input  
-       ↓  
+         ↓   
   Emotion Analysis  
-       ↓  
+         ↓  
   Stress Tier Classification 
-       ↓  
+        
+  ↓  
   Response Protocol Selection  
-       ↓  
+        ↓  
   Safety Check  
-       ↓  
+        ↓  
   AI Response Output
 
 ## 🧪 Live Interactive Demo (Powered by Jotform)
