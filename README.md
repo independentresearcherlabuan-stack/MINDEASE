@@ -193,6 +193,6 @@ The demo simulates real-time stress interaction by:
 - Demonstrates mild, moderate, and severe stress response flows
 - Allows judges and users to experience adaptive AI intervention
 
-🔗 Connect
+## 🔗 Connect
 - Live Interactive Demo: https://agent.jotform.com/019ca75a32df733f9718aed77fe8e690c6cd
 - YouTube Walkthrough: https://youtu.be/z9WybBBcmFo
