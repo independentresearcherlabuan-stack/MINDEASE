@@ -4,99 +4,87 @@
  
 Acute stress is an immediate psychological and physiological reaction to intensely stressful or emotionally overwhelming events.
 These may include:
-Accidents or injuries
-Conflict with loved ones
-Academic or work pressure
-Sudden panic attack episodes
-Traumatic experiences
+- Accidents or injuries
+- Conflict with loved ones
+- Academic or work pressure
+- Sudden panic attack episodes
+- Traumatic experiences
 
 During acute stress episodes, individuals may experience:
-Rapid heartbeat or palpitations
-Shortness of breath
-Dizziness or headache
-Loss of focus
-Emotional numbness
-Suicidal or self-harm ideation
+- Rapid heartbeat or palpitations
+- Shortness of breath
+- Dizziness or headache
+- Loss of focus
+- Emotional numbness
+- Suicidal or self-harm ideation
 
 These reactions can occur suddenly and without warning.
 In high-stress situations, people need immediate, simple, and calming guidance.
 
 Unmanaged acute stress can lead to:
-Impaired cognitive performance
-Poor decision-making
-Emotional dysregulation
-Increased burnout risk
-Escalation into long-term anxiety disorders
+- Impaired cognitive performance
+- Poor decision-making
+- Emotional dysregulation
+- Increased burnout risk
+- Escalation into long-term anxiety disorders
 
 Most mental health services:
-- Require appointments
+- Require longer appointments date
 - Focus on long-term therapy
 - Are not optimized for real-time crisis support
 
 There is a critical need for an AI-powered assistant that provides:
-Immediate emotional regulation guidance
-Short, structured calming interventions
-Safe crisis-aware responses
-Accessible 24/7 support
+- Immediate emotional regulation guidance
+- Short, structured calming interventions
+- Safe crisis-aware responses
+- Accessible 24/7 support
 
 - ## 🤖 Solution : MindEase
 MindEase acts as a digital first-line intervention tool — providing immediate emotional stabilization before stress escalates into crisis.
 
 It provides:
-
-Instant emotional validation
-Guided breathing exercises
-Grounding techniques
-Progressive muscle relaxation
-Crisis-aware escalation guidance
+- Instant emotional validation
+- Guided breathing exercises
+- Grounding techniques
+- Progressive muscle relaxation
+- Distraction techniques
+- Crisis-aware escalation guidance
 
 The assistant dynamically adapts its tone, response length, and structure based on the user's stress intensity.
 
-🧬 Research & Neuroscience Backing
+- ## 🧬 Research & Neuroscience Backing
 🧠 The Science of Acute Stress Reaction
 
 When acute stress occurs:
-The amygdala activates the threat response
-The sympathetic nervous system triggers fight-or-flight
-Cortisol and adrenaline increase
-Prefrontal cortex activity decreases
+1. The amygdala activates the threat response
+2. The sympathetic nervous system triggers fight-or-flight response 
+3. Cortisol and adrenaline increase
+4. Prefrontal cortex activity decreases
 
-This reduces:
-Logical reasoning
-Focus
-Emotional regulation
+This can affects one's functionality:
+- Logical reasoning
+- Focus
+- Emotional regulation
 
 🌬 Why Breathing Works
 Slow, controlled breathing:
-Activates the parasympathetic nervous system
-Stimulates the vagus nerve
-Reduces heart rate
-Lowers cortisol levels
+1. Activates the parasympathetic nervous system
+2. Stimulates the vagus nerve
+3. Reduces heart rate
+4. Lowers cortisol levels
 
 🧘 Why Grounding Techniques Work
 The 5-4-3-2-1 method:
-Redirects attention to sensory input
-Reduces rumination
-Interrupts panic loops
-Restores present-moment awareness
+1. Redirects attention to sensory input
+2. Reduces rumination thoughts
+3. Interrupts panic loops
+4. Restores present-moment awareness
 
 Grounding techniques are widely used in:
-Cognitive Behavioral Therapy (CBT)
-Major depressive disorder treatment 
-Generalised Anxiety disorder treatment
-Panic disorder treatment 
-
-🧩 Why Short Responses Matter During Panic
-
-During acute stress:
-Cognitive load tolerance decreases
-Working memory narrows
-Information processing slows
-
-Therefore, MindEase:
-Limits word count during severe stress
-Uses short, direct instructions
-Avoids overwhelming explanations
+- Cognitive Behavioral Therapy (CBT)
+- Major depressive disorder treatment 
+- Generalised Anxiety disorder treatment
+- Panic disorder treatment 
 
 - ## 🏗 AI System Architecture
 
@@ -109,15 +97,15 @@ The system consists of:
 
 2. Stress Classification Engine  
    - Categorizes Categorizes stress into three tiers:
-   🟢 Mild
-   🟠 Moderate
-   🔴 Severe
+     - 🟢 Mild
+     - 🟠 Moderate
+     - 🔴 Severe
 
 3. Response Protocol Generator  
    - Selects an intervention style based on stress level:
-   Tone adjustment
-   Instruction pacing
-   Technique selection
+   - Tone adjustment
+   - Instruction pacing
+   - Technique selection
 
 4. Safety Monitoring Layer  
    - Detects self-harm or crisis indicators
@@ -140,11 +128,11 @@ Example Keywords:
 - Empty
 
 Response Strategy:
-Grounding techniques
-Deep breathing guidance
-Progressive muscle relaxation
-Distraction techniques
-Crisis support (Hotline) 
+- Grounding techniques
+- Deep breathing guidance
+- Progressive muscle relaxation
+- Distraction techniques
+- Crisis support (Hotline) 
 
 ---
 
@@ -180,7 +168,7 @@ Keywords:
 Response Style:
 - Very short, calm instruction
 - Reassurance
-- 4-4-4 breathing pattern
+- 4-4-6 breathing pattern
 - 5-4-3-2-1 grounding
 - Crisis support (Hotline)
 
@@ -198,9 +186,9 @@ If self-harm or suicide indicators are detected:
 - Uses supportive, non-judgmental language
 
 🔐 Privacy Commitment
-No personal data storage
-No emotional profiling retention
-No session memory beyond interaction
+- No personal data storage
+- No emotional profiling retention
+- No session memory beyond interaction
 
 - ## 🧩 Prompt Engineering Architecture
 
@@ -208,7 +196,7 @@ The system prompt governs structure and tone.
 
 Core Response Protocol
 1. Emotional validation
-2. Deep breathing exercise instruction (4-4-4 pattern)
+2. Deep breathing exercise instruction (4-4-6 pattern)
 3. Grounding technique (5-4-3-2-1 method)
 4. Progressive muscle relaxation
 5. Gentle reassurance
@@ -221,7 +209,7 @@ The assistant dynamically adjusts:
 - Complexity of explanation
 Based on detected stress severity.
 
-## 📊 System Flow
+- ## 📊 System Flow
 
 User Input  
       ↓  
@@ -235,9 +223,9 @@ Safety Check
       ↓  
 AI Response Output
 
-🧪 Live Interactive Demo (Powered by Jotform)
+- ## 🧪 Live Interactive Demo (Powered by Jotform)
 🎥 How the Demo Works
-MindEase includes an interactive live demo built using Jotform.
+MindEase AI Agent includes an live interactive demo built using Jotform.
 
 The demo simulates real-time stress interaction by:
 1. Collecting user emotional input through a structured form
@@ -251,6 +239,6 @@ This allows users to experience:
 - Severe stress protocol
 
 🔗 Connect
-Live Interactive Demo: https://blast-radius.vercel.app/
+Live Interactive Demo: https://agent.jotform.com/019ca75a32df733f9718aed77fe8e690c6cd
 YouTube Walkthrough: https://youtu.be/z9WybBBcmFo
 LinkedIn: https://www.linkedin.com/in/dhruv-prajapati-cybersecurity/
