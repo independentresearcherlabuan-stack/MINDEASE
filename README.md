@@ -48,14 +48,14 @@ When acute stress reaction occurs:
 4. Prefrontal cortex activity decreases → impaired reasoning, focus, emotion regulation
 
 🌬 Why Deep Breathing Exercise Works
-Slow, controlled breathing:
+- Slow, controlled breathing:
 1. Activates the parasympathetic nervous system
 2. Stimulates the vagus nerve
 3. Reduces heart rate
 4. Lowers cortisol levels
 
 🧘 Why Grounding Techniques Work
-The 5-4-3-2-1 method:
+- The 5-4-3-2-1 method:
 1. Redirects attention to sensory input
 2. Reduces rumination thoughts
 3. Interrupts panic loops
