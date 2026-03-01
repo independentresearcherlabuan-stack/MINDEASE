@@ -176,7 +176,7 @@ Based on detected stress severity.
        ↓  
   Emotion Analysis  
        ↓  
-  Stress Emotion Tier Classification 
+  Stress Tier Classification 
        ↓  
   Response Protocol Selection  
        ↓  
@@ -191,7 +191,7 @@ MindEase AI Agent includes an live interactive demo built using Jotform.
 The demo simulates real-time stress interaction by:
 - Built using Jotform for real-time simulation
 - Demonstrates mild, moderate, and severe stress response flows
-- Allows judges and users to experience adaptive AI intervention
+- Allows users to experience adaptive AI intervention
 
 ## 🔗 Connect
 - Live Interactive Demo: https://agent.jotform.com/019ca75a32df733f9718aed77fe8e690c6cd
