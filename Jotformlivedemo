@@ -1,0 +1,31 @@
+MindEase/
+│
+├── README.md
+│
+├── demo/
+│   ├── jotform-structure.md
+│   ├── demo-walkthrough.md
+│   └── screenshots/
+│       ├── mild-flow.png
+│       ├── moderate-flow.png
+│       └── severe-flow.png
+│
+├── architecture/
+│   ├── system-overview.md
+│   ├── stress-classification-logic.md
+│   └── safety-framework.md
+│
+├── prompts/
+│   ├── system-prompt.md
+│   ├── mild-protocol.md
+│   ├── moderate-protocol.md
+│   └── severe-protocol.md
+│
+├── backend/   (Optional if using webhook)
+│   ├── app.js / app.py
+│   └── classification-logic.js
+│
+├── research/
+│   └── neuroscience-basis.md
+│
+└── LICENSE
